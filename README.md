@@ -1,5 +1,7 @@
 # FastAPI Email Sender with Jinja2 Templates
+## Application Interface
 
+![Email Sender Interface](screenshot.png)
 A modern web application built with FastAPI that provides an elegant email sending interface with rich text editing capabilities using Quill.js and Jinja2 templating.
 
 ## Features
