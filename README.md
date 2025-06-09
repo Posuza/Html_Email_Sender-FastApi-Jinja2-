@@ -39,4 +39,8 @@ fastapi-html-app
 
 ## Usage
 
+<<<<<<< HEAD
 This application serves a simple HTML page. You can modify the `index.html` file to change the content displayed on the web page.
+=======
+This application serves a simple HTML page. You can modify the `index.html` file to change the content displayed on the web page.
+>>>>>>> 4aee2438bcf5719f3f14ef3cbe862e5405b225b1
