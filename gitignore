@@ -13,6 +13,8 @@ project/.env
 .vscode/
 *.swp
 *.swo
+.vscode/
+.DS_Store/
 
 # FastAPI specific
 .pytest_cache/
